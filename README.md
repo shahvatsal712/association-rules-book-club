@@ -52,7 +52,7 @@ Association rule mining (Apriori) on 4,000 book-club customers to find which cat
 
 ## Run it yourself
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/shahvatsal712/association-rules-book-club.git
 cd <repo-name>
 pip install -r requirements.txt
 jupyter lab notebooks/association_rules_analysis.ipynb
